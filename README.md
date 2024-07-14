@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Antennavvv%20&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JuHoSeok%20&fontSize=90" />
 </div>
 
 <!--내용 부분-->
